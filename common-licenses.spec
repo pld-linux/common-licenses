@@ -4,10 +4,10 @@ Summary(eo):	Popularaj licencoj programaj
 Summary(es):	Famosos licencias del software
 Summary(it):	Popolare lizence dei programme
 Summary(pl):	Popularne licencje oprogramowania
-Summary(ru):	Популярные лицензие программов
+Summary(ru):	Популярные лицензие програм
 Name:		common-licenses
 Version:	1.0
-Release:	2
+Release:	3
 License:	none
 Group:		Documentation
 Source0:	%{name}-%{version}.tar.bz2
