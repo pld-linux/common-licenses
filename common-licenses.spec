@@ -28,7 +28,7 @@ Spójrz równie¿ na http://www.gnu.org/licenses/license-list.html oraz
 http://www.opensource.org/licenses/.
 
 %prep
-%setup
+%setup -q
 
 %clean
 rm -rf $RPM_BUILD_ROOT
