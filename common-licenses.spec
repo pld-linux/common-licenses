@@ -11,6 +11,7 @@ Release:	1
 License:	none
 Group:		Documentation
 Source0:	%{name}-%{version}.tar.bz2
+# Source0-md5:	28782b4d7d610942994f4e0620127b4e
 URL:		http://www.gnu.org/
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
