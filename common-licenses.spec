@@ -7,11 +7,12 @@ Summary(pl):	Popularne licencje oprogramowania
 Summary(ru):	Популярные лицензие программов
 Name:		common-licenses
 Version:	1.0
-Release:	1
+Release:	2
 License:	none
 Group:		Documentation
 Source0:	%{name}-%{version}.tar.bz2
 URL:		http://www.gnu.org/
+BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
