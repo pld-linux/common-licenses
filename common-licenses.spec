@@ -1,7 +1,7 @@
 Summary:	Common software licenses
 Summary(de):	PopulДr Programmlizenzen
 Summary(eo):	Popularaj licencoj programaj
-Summary(es):	Famosos licencias del software
+Summary(es):	Populares licencias del software
 Summary(it):	Popolare lizence dei programme
 Summary(pl):	Popularne licencje oprogramowania
 Summary(ru):	Популярные лицензие програм
