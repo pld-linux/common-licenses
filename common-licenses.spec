@@ -6,8 +6,8 @@ Summary(it):	Popolare lizence dei programme
 Summary(pl):	Popularne licencje oprogramowania
 Summary(ru):	œ–’Ã—“ŒŸ≈ Ã…√≈Œ⁄…≈ –“œ«“¡Õ
 Name:		common-licenses
-Version:	1.0
-Release:	3
+Version:	1.1
+Release:	1
 License:	none
 Group:		Documentation
 Source0:	%{name}-%{version}.tar.bz2
@@ -16,14 +16,14 @@ BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
-This package contains common licenses - GPL, LGPL and FDL with their
-unofficial (there are no official) translations.
+This package contains common licenses - GPL, LGPL, FDL and some others
+with some available unofficial (there are no official) translations.
 See also http://www.gnu.org/licenses/license-list.html and
 http://www.opensource.org/licenses/.
 
 %description -l pl
-Pakiet zawiera popularne licencje - GPL, LGPL oraz FDL wraz z ich
-nieoficjalnymi (oficjalnych brak) t≥umaczeniami.
+Pakiet zawiera popularne licencje - GPL, LGPL, FDL oraz kilka innych
+wraz z dostÍpnymi nieoficjalnymi (oficjalnych brak) t≥umaczeniami.
 SpÛjrz rÛwnieø na http://www.gnu.org/licenses/license-list.html oraz
 http://www.opensource.org/licenses/.
 
