@@ -1,10 +1,10 @@
 Summary:	Common software licenses
-Summary(de):	Popul‰r Programmlizenzen
-Summary(eo):	Popularaj licencoj programaj
-Summary(es):	Populares licencias del software
-Summary(it):	Popolare lizence dei programme
-Summary(pl):	Popularne licencje oprogramowania
-Summary(ru):	œ–’Ã—“ŒŸ≈ Ã…√≈Œ⁄…≈ –“œ«“¡Õ
+Summary(de.UTF-8):   Popul√§r Programmlizenzen
+Summary(eo.UTF-8):   Popularaj licencoj programaj
+Summary(es.UTF-8):   Populares licencias del software
+Summary(it.UTF-8):   Popolare lizence dei programme
+Summary(pl.UTF-8):   Popularne licencje oprogramowania
+Summary(ru.UTF-8):   –ü–æ–ø—É–ª—è—Ä–Ω—ã–µ –ª–∏—Ü–µ–Ω–∑–∏–µ –ø—Ä–æ–≥—Ä–∞–º
 Name:		common-licenses
 Version:	1.1
 Release:	2
@@ -23,10 +23,10 @@ with some available unofficial (there are no official) translations.
 See also http://www.gnu.org/licenses/license-list.html and
 http://www.opensource.org/licenses/.
 
-%description -l pl
+%description -l pl.UTF-8
 Pakiet zawiera popularne licencje - GPL, LGPL, FDL oraz kilka innych
-wraz z dostÍpnymi nieoficjalnymi (oficjalnych brak) t≥umaczeniami.
-SpÛjrz rÛwnieø na http://www.gnu.org/licenses/license-list.html oraz
+wraz z dostƒôpnymi nieoficjalnymi (oficjalnych brak) t≈Çumaczeniami.
+Sp√≥jrz r√≥wnie≈º na http://www.gnu.org/licenses/license-list.html oraz
 http://www.opensource.org/licenses/.
 
 %prep
