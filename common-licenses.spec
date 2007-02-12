@@ -1,10 +1,10 @@
 Summary:	Common software licenses
-Summary(de.UTF-8):   Populär Programmlizenzen
-Summary(eo.UTF-8):   Popularaj licencoj programaj
-Summary(es.UTF-8):   Populares licencias del software
-Summary(it.UTF-8):   Popolare lizence dei programme
-Summary(pl.UTF-8):   Popularne licencje oprogramowania
-Summary(ru.UTF-8):   Популярные лицензие програм
+Summary(de.UTF-8):	Populär Programmlizenzen
+Summary(eo.UTF-8):	Popularaj licencoj programaj
+Summary(es.UTF-8):	Populares licencias del software
+Summary(it.UTF-8):	Popolare lizence dei programme
+Summary(pl.UTF-8):	Popularne licencje oprogramowania
+Summary(ru.UTF-8):	Популярные лицензие програм
 Name:		common-licenses
 Version:	1.1
 Release:	2
