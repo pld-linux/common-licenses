@@ -1,3 +1,4 @@
+# TODO: include GPLv3/LGPLv3
 Summary:	Common software licenses
 Summary(de.UTF-8):	Populär Programmlizenzen
 Summary(eo.UTF-8):	Popularaj licencoj programaj
