@@ -6,13 +6,12 @@ Summary(it):	Popolare lizence dei programme
 Summary(pl):	Popularne licencje oprogramowania
 Summary(ru):	Популярные лицензие програм
 Name:		common-licenses
-Version:	1.1
-Release:	2
+Version:	1.2
+Release:	1
 License:	none
 Group:		Documentation
 Source0:	%{name}-%{version}.tar.bz2
-# Source0-md5:	28782b4d7d610942994f4e0620127b4e
-Source1:	ZPL.tar.gz
+# Source0-md5:	4360462ccdf3acbe2ddf8b240aaf0c05
 URL:		http://www.gnu.org/
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
@@ -30,7 +29,7 @@ SpСjrz rСwnie© na http://www.gnu.org/licenses/license-list.html oraz
 http://www.opensource.org/licenses/.
 
 %prep
-%setup -q -a1
+%setup -q
 
 %clean
 rm -rf $RPM_BUILD_ROOT
