@@ -7,7 +7,7 @@ Summary(pl.UTF-8):	Popularne licencje oprogramowania
 Summary(ru.UTF-8):	Популярные лицензие програм
 Name:		common-licenses
 Version:	1.2
-Release:	1
+Release:	2
 License:	none
 Group:		Documentation
 Source0:	%{name}-%{version}.tar.bz2
